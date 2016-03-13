@@ -17,7 +17,7 @@ Create file called your domain in reverse order with dots replaces with dashes e
 
 ### License
 ```
-Copyright © 2016 Jakub Sztandera <k.sztandera@protonmail.ch>
+Copyright © 2016 Jakub Sztandera <kubuxu@protonmail.ch>
 
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To But It's Not My Fault, Version 1
